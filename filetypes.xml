@@ -4,6 +4,7 @@
       <mapping pattern="ClientSupportStatus" type="JAVA" />
       <mapping pattern="GetConfigRequest" type="JAVA" />
       <mapping pattern="GetConfigResponse" type="JAVA" />
+      <mapping pattern="SupportedStatus" type="JAVA" />
       <mapping pattern="README" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
