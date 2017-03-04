@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ClientSupportStatus" type="JAVA" />
+      <mapping pattern="GetConfigRequest" type="JAVA" />
+      <mapping pattern="GetConfigResponse" type="JAVA" />
       <mapping pattern="README" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
